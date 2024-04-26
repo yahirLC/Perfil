@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Perfil</string>
+    <string name="text_nombre">Nombre</string>
+    <string name="text_correo">Correo</string>
+    <string name="sitio_web">Sitio Web</string>
+    <string name="text_phone">Contacto</string>
+    <string name="text_location">Ubicación</string>
+    <string name="text_show_location">Mostrar Mapa</string>
+    <string name="text_enable_location">Habilitar Ubicacion</string>
+    <string name = "mm_modificar_info" >Modificar Informacion</string>
+</resources>
